@@ -1,0 +1,9 @@
+Use COMPANY_darry;
+
+CREATE TABLE DEPARTMENT(
+	DNAME	varchar(25) NOT NULL,
+	DNUMBER	CHAR,
+	MGRSSN	CHAR(9),
+	MgrStartDate DATE,
+	);
+	GO
